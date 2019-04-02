@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
-url:http://ventumm.github.io
+name: Test Ventumm
+url: "http://ventumm.github.io"
+markdown: kramdown
+highlighter: rouge
